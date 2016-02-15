@@ -1,0 +1,426 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	 font-family: 'Open Sans';
+}
+.row{
+	margin: 0 !important;
+	padding: 0 !important;
+
+}
+header{
+  background: url("../img/background/hero.jpg") no-repeat center center;
+  background-size: cover;
+  height: 100vh;
+  color: white;
+  font-family: 'Open Sans';
+  font-weight: 600;  
+}
+.grow:hover
+{
+-webkit-transform: scale(1.3);
+-ms-transform: scale(1.3);
+transform: scale(1.3);
+}
+A
+.col-6 p {
+	font-size: 20px;
+	font-family: 'Open Sans';
+}
+.capa{
+
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	background: rgba(0,0,0,0.5);
+}
+nav{
+	margin-left: 12%;
+}
+
+nav, i{
+	margin-top: 4%;
+	margin-left: 12%;
+}
+header nav a{
+	text-decoration: none;
+	color: white;
+	margin-right: 4%;
+	font-size: 14px;
+
+}
+nav a:hover{
+	color: #009CA8;
+}
+header h1{
+	text-align: center;
+	margin-top: 18%;
+	font-size: 40px;
+	font-weight: 400;
+}
+header p{
+	text-align: center;
+	margin-top: 2%;
+	font-size: 16px;
+	font-weight: 200;
+	padding: 0 20%;
+}
+strong{
+	font-weight: 600;
+}
+
+.circle :hover
+{
+border-radius : 50% ;
+}
+.boton {
+	 background-color: rgba(255,255,255,0.1);
+    color: white;
+	text-align: center;
+	text-decoration: none;
+	color: white;
+	margin-top:35px;
+	margin-left: 1%;
+	padding: 10px;
+	text-align: center;
+}
+.boton2{
+	background-color:#2D323A!important;
+	color:#B7BFC4 !important;
+	margin-top:5% !important;
+	font-size:14px;
+	font-weight:440;
+	padding-left:8% !important;
+	padding-right:8% !important;
+}
+.boton3{
+    background-color:#0DC0C0 !important;
+    color:white !important;
+    padding:2% 5% !important;
+    text-align: center!important;
+    float:left;
+    margin-top:8%;
+    margin-left:10%;
+}
+.boton3:hover{
+	background-color: #2D323A !important;
+
+}
+.boton:hover{
+	background-color: #2D323A;
+}
+.mt-35-md{
+	margin-top: 35px;
+}
+.uno{
+	background-color: white;
+	min-height:300px;
+	text-align: center;
+}
+.uno i{
+	text-align: center;
+	margin: auto;
+	font-size: 45px;
+	color: #009CA8;
+}
+.servicios h1{
+	padding-top: 30px;
+}
+.dos{
+	background-color: white;
+}
+
+.title{
+	font-weight: 600;
+	color: #49505A;
+	padding-bottom: 3%
+}	
+/*fin*/
+/*uno*/
+.servicio{
+	
+	margin-top: 70px;
+	padding: 20% 15%;
+	text-align: center;
+	margin: auto;
+}
+.text-ser{
+	padding: 0px 30px;
+	text-align: center;
+}
+.portfolio{
+	background-color: #f4f4f4;
+	text-align: center;
+	margin: auto;
+	padding-bottom: 2%;
+}
+.foto{
+	padding: 2% 2%;
+	background-color: white;
+	box-shadow: 2px 2px 5px #999;
+	width: 100%;
+	padding-bottom: 3%;
+	margin-bottom: 5%;
+}
+.foto img{
+	width: 100%
+}
+/*fin*/
+/*dos*/
+.dos{
+	background-color: #F4F4F4;
+	padding: 5% 0;
+}
+.laptop{
+	width: 60%;
+}
+/*fin*/
+/*tres*/
+.tres .ion{
+	color: #009CA8;
+	font-size: 24px;
+	padding-right: 0 !important;
+}
+.tres h4{
+	color: #60676F;
+}
+.tres p{
+	font-size: 14px;
+	padding-left: 0;
+	margin-left: 0px;
+	color: #AEAEAE;
+}
+.portfolio nav{
+	margin: auto;
+	margin-top: 2%;
+	margin-bottom: 6%;
+	font-weight: 600;
+}
+.portfolio a{
+	padding: 10px;
+	background-color: white;
+	color: black;
+	text-decoration: none !important;
+}
+.greenhov:hover{
+	background-color: #009CA8 !important;
+	color:white;
+}
+.porttitle{
+	font-weight: 600;
+	color: #2D323A;
+}	
+.portfolio p{
+	font-size: 14px;
+	color:#B9B9B9;
+}
+.portfolio h1{
+	font-weight:400;
+}
+.boton1{
+	background-color: #2D323A !important;
+    text-align: center;
+	text-decoration: none;
+	color: white !important;
+	margin-top:70vh;
+	margin-left: 1%;
+	margin-bottom: 2% !important;
+	padding: 10px;
+	text-align: center;
+}
+
+.mh-80-md{
+	margin-right: 80px;
+    margin-left: 80px;
+
+}
+.clr:after {
+    clear: both;
+    content: "";
+    display: block;
+}
+.clr:after {
+    clear: both;
+    content: "";
+    display: block;
+}
+.castle {
+    background: url("../img/background/city.jpg");
+    background-size: cover;
+    color: white;
+    height: 460px;
+    margin-top: 2%  
+} 
+.accion {
+    background-color: rgba(0, 0, 0, 0.4);
+    height: 460px;
+    padding: 10% 26% 0% 25%;
+    font-size: 1.6em;  }
+.call {  
+	margin-top: 100px;
+	  }
+.call a {
+    background-color: rgba(255,255,255,0.1);
+    color: white;
+    border: 1.5px solid rgba(255,255,255,0.2);
+    font-size: 0.9em;
+    font-weight: bold;
+    color: white;
+    padding: 2% 3%;
+    text-decoration: none;  
+}
+.oferta{
+	background-color: white;
+	padding: 5%;
+	box-shadow: 2px 2px 5px #999;
+}
+.oferta p{
+    margin-top:3%;
+    margin-bottom:4%;
+    top:10%;
+}
+.eight{
+background-color:white;
+}
+.primero{
+	background-color: #323A45;
+	padding: 25px;
+	color: white;
+	font-size:25px;
+}
+.verde{
+	background-color: #0DC0C0;
+}
+.segundo{
+	background-color: #F0F0F0;
+	color: #5D5D5D;	
+	padding:15% 15%;
+	margin-bottom:10%;
+
+}
+.diez{
+	margin: auto;
+	margin-top: 5%;
+	padding: 0 13%;
+	color: #535353;
+	background-color: white;
+
+}
+.diez i{
+	font-size: 45px;
+	margin: auto;
+	margin-left: 1%;
+	padding: 5% 0;
+	color: #323A45;
+}
+footer{
+	background-color: #222222;
+	color: #797979;
+	text-align: center;
+	padding-top: 2%;
+	padding-bottom: 2%;
+}
+@media screen and (max-width: 768px) {
+	header{
+		height: 97.3vh;
+	}
+	nav{
+		text-align: center;
+	}
+	.col-xs-12{
+		width: 100%;
+	}
+	.mh-0-xs{
+		margin-right: 0px;
+		margin-left: 0px;
+	}
+	.foto img{
+{		width: 100%;
+	}
+	[class*="col-"] {
+		width: 100% !important;
+	}
+}
+
+@media(max-width:480px){
+	.greenhov{
+    font-size:12px;
+    margin-left:2%;
+    padding-left:0%;
+    padding-right:0%;
+	}
+	.oferta{
+	margin-bottom:10%;
+	}
+	.costumer{
+	width:25%;
+	height:25%;
+	}
+	.siete p{
+	margin:auto;
+	width:80%;
+	}
+	.servicio{
+	margin-top:4%;
+	margin-bottom:6%;
+	padding:0;
+	}
+
+	form h1{
+	top:10%;
+	}
+	form h2{
+	width:90%;
+	text-align: center;
+	margin-left:5%;
+	font-size:12px;
+	}
+	form h3{
+	margin-right:50%;
+	font-size:15px;
+	}
+	form h4{
+	font-size:10px;
+	}
+	.list{
+	font-size:10px;
+	}
+	.form-fondo{
+    height:130vh;
+    background-repeat:no-repeat;
+ 
+	}
+	.diez{
+	top:4%;
+	margin: center;
+
+	}
+.ocho{
+	padding-top: 0 !important; 
+}
+.eight p{
+   margin: auto;
+   margin-bottom:5%;
+}
+.boton3{
+text-decoration: none;
+}
+.eight h3{
+margin: auto;
+margin-bottom:5%;
+}
+.eight h4{
+margin: auto;
+}
+.diez h1{
+margin-top:10%;
+margin-bottom:5%;
+}
+.diez p{
+margin-bottom:5%;
+}
+.diez i{
+margin-top:5%;
+margin-bottom:5%;
+}
+}
